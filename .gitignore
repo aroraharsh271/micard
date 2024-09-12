@@ -9,6 +9,9 @@
 .history
 .svn/
 migrate_working_dir/
+.gitignore
+.metadata
+analysis_options.yaml
 
 # IntelliJ related
 *.iml
